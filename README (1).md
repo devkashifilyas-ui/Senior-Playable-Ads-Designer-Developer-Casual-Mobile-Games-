@@ -173,18 +173,6 @@ Every playable is launched as a variant test. Key variables tested per iteration
 
 **Typical improvement after 1 iteration cycle:** CTR +40–60%, IPM +30–50%
 
----
-
-## 📬 Contact
-
-Built by a Senior Playable Ad Developer specializing in casual mobile puzzle games.
-
-- 📧 [your@email.com]
-- 🔗 [LinkedIn]
-- 🎮 [Upwork Profile]
-
----
-
 ## 📄 License
 
 MIT — free to use as a portfolio template or reference implementation.
